@@ -61,3 +61,6 @@
               (λ (x) (cond ((= x i) (list-ref ls j))
                            ((= x j) (list-ref ls i))
                            (else (list-ref ls x))))))
+
+(define (swap-string str i j)
+  (list->string (swap (string->list str) i j)))
