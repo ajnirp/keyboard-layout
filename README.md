@@ -1,6 +1,6 @@
 About
 -----
-Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project was done as part of [LISP](http://lispinsummerprojects.org).
+Meta-optimized genetic algorithms applied to the problem of generating a keyboard layout that is as efficient as possible. This project is done as part of [LISP](http://lispinsummerprojects.org).
 
 Keyboard Layout Optimization
 ----------------------------
