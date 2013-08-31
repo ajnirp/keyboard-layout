@@ -1,3 +1,5 @@
+#lang racket
+
 ; Reads in a corpus file and returns its text
 ; with normalized spaces
 ; Docs for string-normalize spaces: Section 3.3 at the bottom
